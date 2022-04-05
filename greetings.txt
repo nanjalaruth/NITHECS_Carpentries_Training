@@ -2,3 +2,4 @@ Hello Brenden
 How are you doing?
 How is your day so far?
 How do you rate the lesson so far?
+I hope you are enjoying the session.
